@@ -67,7 +67,9 @@ function App() {
 
   useEffect(() => {
     getAllPokemons();
-  }, [])
+    // getAllPokemonsの依存配列に関するリンターの警告を無視する
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div className="app-container">
