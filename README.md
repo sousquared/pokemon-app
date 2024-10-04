@@ -3,6 +3,9 @@
 - https://qiita.com/hato_code/items/e75f215ef2d5191341dc
 - https://github.com/hato-taka/pokemon-app
 
+勉強メモ  
+https://zenn.dev/sousquared/scraps/9d0fe7d81e49d9
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
